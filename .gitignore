@@ -1,0 +1,7 @@
+.git
+*.pyc
+/etc/
+.idea*
+db.sqlite3
+gameness/views_implemented.py
+/static/
